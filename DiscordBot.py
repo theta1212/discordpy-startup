@@ -27,7 +27,7 @@ BOSS_HP = [
     [1500, 1600, 1800, 1900, 2000]  # 4段階目
 ]
 ID_ROLE_ADMIN = None  # 飼い主ロールID（事前設定用）
-ID_CHANNEL_MAIN = None  # 入力用チャンネルID（事前設定用）
+ID_CHANNEL_MAIN = 718267707488731188  # 入力用チャンネルID（事前設定用
 ID_CHANNEL_LOG_MAIN = None  # 凸進捗出力用チャンネルID（事前設定用）
 ID_CHANNEL_LOG_INCOMPLETE = None  # 3凸未完了者リスト用チャンネルID（事前設定用）
 ID_CHANNEL_LOG_REQUEST = None  # 持越中・通知登録者リスト用チャンネルID（事前設定用）
